@@ -2,7 +2,7 @@
 
 ## Author
 
-Aubin THOMAS, IGH, Montpellier,
+Aubin THOMAS, IGH, Montpellier,<br/>
 à partir du cours de Nicolas Barrier, IRD, UMR Marbec ([www.nicolasbarrier.fr/](https://www.nicolasbarrier.fr/))
 
 
@@ -40,5 +40,4 @@ Download and install [Anaconda](https://www.anaconda.com/products/individual) fo
 - [NetCDF](io/xarray.ipynb) (*xarray*)
 
 ### Utilisation de Pandas
-- [Cartopy](maps/cartopy.ipynb)
-- [PyNGL](maps/pyngl.ipynb)
+
