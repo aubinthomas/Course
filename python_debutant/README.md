@@ -27,7 +27,7 @@ Download and install [Anaconda](https://www.anaconda.com/products/individual) fo
 - [List](data_types/list_french.ipynb)
 - [Dictionaries](data_types/dict_french.ipynb)
 - [String](data_types/strings.ipynb)
-- [Numpy arrays](data_types/numpy_french.ipynb) (Scipy, Numpy libraries)
+- [Numpy arrays](data_types/Numpy_french.ipynb) (Scipy, Numpy libraries)
 
 ### Blocks, structures de contrôle
 - [Conditional statements](blocks/ifsta.ipynb)
