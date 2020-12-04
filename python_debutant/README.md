@@ -2,7 +2,7 @@
 
 ## Author
 
-Aubin THOMAS, IGH, Montpellier,
+Aubin THOMAS, IGH, Montpellier,<br/>
 à partir du cours de Nicolas Barrier, IRD, UMR Marbec ([www.nicolasbarrier.fr/](https://www.nicolasbarrier.fr/))
 
 
