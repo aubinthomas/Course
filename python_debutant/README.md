@@ -30,14 +30,9 @@ Download and install [Anaconda](https://www.anaconda.com/products/individual) fo
 - [Numpy arrays](data_types/Numpy_french.ipynb) (Scipy, Numpy libraries)
 
 ### Blocks, structures de contrôle
-- [Conditional statements](blocks/ifsta.ipynb)
-- [Loops](blocks/loops.ipynb)
-- [Functions](blocks/functions.ipynb)
-
-### IO
-- [Text](io/text.ipynb)
-- [CSV](io/pandas.ipynb) (*pandas*)
-- [NetCDF](io/xarray.ipynb) (*xarray*)
+- [Conditional statements](blocks/blocks_french.ipynb)
+- [Loops](blocks/blocks_french.ipynb)
+- [Functions](blocks/blocks_french.ipynb)
 
 ### Utilisation de Pandas
 
