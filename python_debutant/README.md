@@ -22,12 +22,12 @@ Download and install [Anaconda](https://www.anaconda.com/products/individual) fo
 - [Installing libraries](introduction/libinstall.ipynb)
 
 ### Types
-- [Variable definition](data_types/vars.ipynb)
+- [Variable definition](data_types/vars_french.ipynb)
 - [Numerical variables](data_types/numerics.ipynb)
-- [List](data_types/list.ipynb)
-- [Dictionaries](data_types/dict.ipynb)
-- [String](data_types/string.ipynb)
-- [Numpy arrays](data_types/numpy.ipynb) (Scipy, Numpy libraries)
+- [List](data_types/list_french.ipynb)
+- [Dictionaries](data_types/dict_french.ipynb)
+- [String](data_types/strings.ipynb)
+- [Numpy arrays](data_types/numpy_french.ipynb) (Scipy, Numpy libraries)
 
 ### Blocks, structures de contrôle
 - [Conditional statements](blocks/ifsta.ipynb)
