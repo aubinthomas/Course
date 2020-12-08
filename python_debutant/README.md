@@ -5,20 +5,16 @@
 Aubin THOMAS, IGH, Montpellier,<br/>
 à partir du cours de Nicolas Barrier, IRD, UMR Marbec ([www.nicolasbarrier.fr/](https://www.nicolasbarrier.fr/))
 
-
-
 ## Installation
 
 Je conseille vivement l'installation d'Anaconda :
 
 Download and install [Anaconda](https://www.anaconda.com/products/individual) for **Python 3.7**.
 
-
-
 ## Programme
 
 ### Introduction
-- [Introduction](introduction/Intro french.ipynb) (description, applications)
+- [Introduction](introduction/Intro french.ipynb)
 - [Installation des librairies](introduction/libinstall.ipynb)
 
 ### Types
