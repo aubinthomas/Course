@@ -34,3 +34,4 @@ Download and install [Anaconda](https://www.anaconda.com/products/individual) fo
 - [Fonctions](blocks/blocks_french.ipynb)
 
 ### Utilisation de Pandas
+- [initiation pandas](Pandas/Pandas_french.ipynb)
