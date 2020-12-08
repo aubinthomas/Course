@@ -19,20 +19,18 @@ Download and install [Anaconda](https://www.anaconda.com/products/individual) fo
 
 ### Introduction
 - [Introduction](introduction/Intro french.ipynb) (description, applications)
-- [Installing libraries](introduction/libinstall.ipynb)
+- [Installation des librairies](introduction/libinstall.ipynb)
 
 ### Types
-- [Variable definition](data_types/vars_french.ipynb)
-- [Numerical variables](data_types/numerics.ipynb)
+- [Variable](data_types/vars_french.ipynb)
+- [Opérateurs numériques](data_types/numerics.ipynb)
 - [List](data_types/list_french.ipynb)
 - [Dictionaries](data_types/dict_french.ipynb)
-- [String](data_types/strings.ipynb)
 - [Numpy arrays](data_types/Numpy_french.ipynb) (Scipy, Numpy libraries)
 
 ### Blocks, structures de contrôle
-- [Conditional statements](blocks/blocks_french.ipynb)
-- [Loops](blocks/blocks_french.ipynb)
-- [Functions](blocks/blocks_french.ipynb)
+- [Conditionnelles](blocks/blocks_french.ipynb)
+- [Boucles](blocks/blocks_french.ipynb)
+- [Fonctions](blocks/blocks_french.ipynb)
 
 ### Utilisation de Pandas
-
