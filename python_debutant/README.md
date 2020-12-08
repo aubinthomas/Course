@@ -14,7 +14,7 @@ Download and install [Anaconda](https://www.anaconda.com/products/individual) fo
 ## Programme
 
 ### Introduction
-- [Introduction](introduction/Intro french.ipynb)
+- [Introduction](introduction/Intro_french.ipynb)
 - [Installation des librairies](introduction/libinstall.ipynb)
 
 ### Types
